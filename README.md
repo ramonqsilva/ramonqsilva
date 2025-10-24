@@ -40,6 +40,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade Belas A
 <p align="left">
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8331f8a6-86ad-42bc-b00b-9c0bed601623" />
   <img width="40" height="40" src="https://img.icons8.com/ios-glyphs/480/github.png" alt="github"/>
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/da328b20-3f57-42ae-8a70-a335cb44a4ac" />
   <img width="30" height="40" src="https://img.icons8.com/ios-filled/100/vertical-line.png" alt="vertical-line"/>
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0f308e4e-3919-49c3-aaf2-bb9082eecadb" />
   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ebf1d9ed-1b2f-4ee2-91ed-0232eadae761" />
